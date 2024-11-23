@@ -107,7 +107,7 @@ if uploaded_image:
         st.write("### Monument Information:")
         st.write(response['messages'])
 
-
+#in development
 st.write("### Suggested Prompts:")
 st.button("Tell me more about its architecture")
 st.button("What are some famous events associated with it?")
